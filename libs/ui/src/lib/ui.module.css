@@ -1,0 +1,14 @@
+/*
+ * Replace this with your own classes
+ *
+ * e.g.
+ * .container {
+ * }
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  @apply bg-red-500;
+}
